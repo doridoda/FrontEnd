@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  
+}
+.head{
+  justify-content: center;
+  display: flex;
+  color: black;
+  padding: 20px;
+  margin-bottom: 2px;
+  background-color: lightblue;
+}
+.menu{
+ display: flex;
+ flex-direction: row;
+ 
+  
+}
+.content{
+
+   
+  
+}
+.foot{
+  display: flex;
+  color: black;
+  padding: 20px;
+
+  margin-top: -2px;
+  background-color: lightblue;
+}
+
+
+
+
